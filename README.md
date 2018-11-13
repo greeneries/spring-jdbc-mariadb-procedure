@@ -5,7 +5,7 @@
 ```
 STS >> New >> Spring Starter Project
 
-Project Name : spring-jdbc-3
+Project Name : spring-jdbc-mariadb-procedure
 Type : Maven
 Packaging : Jar
 Java : 8
